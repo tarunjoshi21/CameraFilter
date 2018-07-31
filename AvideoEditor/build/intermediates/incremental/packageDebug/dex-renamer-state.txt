@@ -1,4 +1,4 @@
-#Mon Jul 30 16:05:05 IST 2018
+#Tue Jul 31 18:20:21 IST 2018
 base.0=/media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
 file.0=/media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
