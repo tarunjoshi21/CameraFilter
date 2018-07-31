@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 65,
+                    "endOffset": 116
+                },
+                "from": {
+                    "file": "/home/shahbaz/.android/build-cache/d79f2212f1d4959f04b3656ff7240326f90be612/output/res/values-v16/values-v16.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 65,
+                        "endOffset": 116
+                    }
+                }
+            }
+        ]
+    }
+]

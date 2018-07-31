@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/build/intermediates/res/merged/debug/drawable-nodpi-v4/face1.jpg",
+        "source": "/media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/res/drawable-nodpi/face1.jpg"
+    },
+    {
+        "merged": "/media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/build/intermediates/res/merged/debug/drawable-nodpi-v4/bgview.jpg",
+        "source": "/media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/res/drawable-nodpi/bgview.jpg"
+    },
+    {
+        "merged": "/media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/build/intermediates/res/merged/debug/drawable-nodpi-v4/face0.jpg",
+        "source": "/media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/res/drawable-nodpi/face0.jpg"
+    }
+]

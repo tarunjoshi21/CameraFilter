@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:2:1-59:12
+	package
+		ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:3:11-39
+		INJECTED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml
+		INJECTED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml
+		INJECTED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml
+		INJECTED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:10:22-77
+uses-permission#android.permission.CAMERA
+ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:11:5-64
+	android:name
+		ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:11:22-62
+uses-permission#android.permission.camera2.full
+ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:12:5-70
+	android:name
+		ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:12:22-68
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:13:5-70
+	android:name
+		ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:13:22-68
+uses-permission#android.permission.INTERNET
+ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:14:5-66
+	android:name
+		ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:14:22-64
+uses-feature#android.hardware.camera
+ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:16:5-59
+	android:name
+		ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:16:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:17:5-69
+	android:name
+		ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:17:19-67
+permission#android.permission.FLASHLIGHT
+ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:19:5-22:43
+	android:protectionLevel
+		ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:22:9-41
+	android:permissionGroup
+		ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:21:9-77
+	android:name
+		ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:20:9-53
+application
+ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:24:5-57:19
+MERGED from [VideoEditing:library:unspecified] /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/library/build/intermediates/bundles/default/AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/shahbaz/.android/build-cache/d79f2212f1d4959f04b3656ff7240326f90be612/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /home/shahbaz/.android/build-cache/16e2c9e4222c7dd6a04a0d1d5c404b95818bf520/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /home/shahbaz/.android/build-cache/ff1f219e41904b5518139473ef93b3ab30beb660/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/shahbaz/.android/build-cache/171ebf7cedd781fe263f04aeb5b0e68f2ec708a4/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/shahbaz/.android/build-cache/c8b72cbe64d34867912e02b12cf281579391d00c/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/shahbaz/.android/build-cache/962c74f7373c9da33a5485f5954523d628f24050/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/shahbaz/.android/build-cache/253611b445a680595b6c4b5de6027f6acce813df/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/shahbaz/.android/build-cache/1c6b60d37376ab157c76e38ae26ae5139c07b877/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /home/shahbaz/.android/build-cache/9fddb939f95c64e4601a0a03579dceae1549d596/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:28:9-41
+	android:hardwareAccelerated
+		ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:26:9-43
+	android:allowBackup
+		ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:25:9-35
+	android:icon
+		ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:27:9-43
+	android:theme
+		ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:29:9-40
+activity#org.wysaid.cgeDemo.MainActivity
+ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:30:9-38:20
+	android:label
+		ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:32:13-45
+	android:name
+		ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:31:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:33:13-37:29
+action#android.intent.action.MAIN
+ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:34:17-68
+	android:name
+		ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:36:27-74
+activity#org.wysaid.cgeDemo.BasicImageDemoActivity
+ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:39:9-41:66
+	android:label
+		ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:41:13-64
+	android:name
+		ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:40:13-51
+activity#org.wysaid.cgeDemo.ImageDemoActivity
+ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:42:9-44:65
+	android:label
+		ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:44:13-63
+	android:name
+		ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:43:13-46
+activity#org.wysaid.cgeDemo.CameraDemoActivity
+ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:45:9-48:51
+	android:screenOrientation
+		ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:48:13-49
+	android:label
+		ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:47:13-63
+	android:name
+		ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:46:13-47
+activity#org.wysaid.cgeDemo.SimplePlayerDemoActivity
+ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:49:9-51:66
+	android:label
+		ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:51:13-64
+	android:name
+		ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:50:13-53
+activity#org.wysaid.cgeDemo.VideoPlayerDemoActivity
+ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:52:9-60
+	android:name
+		ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:52:19-58
+activity#org.wysaid.cgeDemo.TestCaseActivity
+ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:53:9-53
+	android:name
+		ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:53:19-51
+activity#org.wysaid.cgeDemo.FaceTrackingDemoActivity
+ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:54:9-56:72
+	android:label
+		ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:56:13-69
+	android:name
+		ADDED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml:55:13-53
+uses-sdk
+INJECTED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [VideoEditing:library:unspecified] /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/library/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/shahbaz/.android/build-cache/d79f2212f1d4959f04b3656ff7240326f90be612/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.2.0] /home/shahbaz/.android/build-cache/16e2c9e4222c7dd6a04a0d1d5c404b95818bf520/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /home/shahbaz/.android/build-cache/ff1f219e41904b5518139473ef93b3ab30beb660/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/shahbaz/.android/build-cache/171ebf7cedd781fe263f04aeb5b0e68f2ec708a4/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/shahbaz/.android/build-cache/c8b72cbe64d34867912e02b12cf281579391d00c/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/shahbaz/.android/build-cache/962c74f7373c9da33a5485f5954523d628f24050/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/shahbaz/.android/build-cache/253611b445a680595b6c4b5de6027f6acce813df/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/shahbaz/.android/build-cache/1c6b60d37376ab157c76e38ae26ae5139c07b877/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.2.0] /home/shahbaz/.android/build-cache/9fddb939f95c64e4601a0a03579dceae1549d596/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.2.0] /home/shahbaz/.android/build-cache/d79f2212f1d4959f04b3656ff7240326f90be612/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml
+		INJECTED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml
+		INJECTED from /media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/AndroidManifest.xml

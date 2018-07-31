@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/shahbaz/.android/build-cache/d79f2212f1d4959f04b3656ff7240326f90be612/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/shahbaz/.android/build-cache/d79f2212f1d4959f04b3656ff7240326f90be612/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/shahbaz/.android/build-cache/d79f2212f1d4959f04b3656ff7240326f90be612/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/shahbaz/.android/build-cache/d79f2212f1d4959f04b3656ff7240326f90be612/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/shahbaz/.android/build-cache/d79f2212f1d4959f04b3656ff7240326f90be612/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/shahbaz/.android/build-cache/d79f2212f1d4959f04b3656ff7240326f90be612/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/shahbaz/.android/build-cache/d79f2212f1d4959f04b3656ff7240326f90be612/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/shahbaz/.android/build-cache/d79f2212f1d4959f04b3656ff7240326f90be612/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/shahbaz/.android/build-cache/d79f2212f1d4959f04b3656ff7240326f90be612/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/shahbaz/.android/build-cache/d79f2212f1d4959f04b3656ff7240326f90be612/output/res/anim/abc_fade_out.xml"
+    }
+]

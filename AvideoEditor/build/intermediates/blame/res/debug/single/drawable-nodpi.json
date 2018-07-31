@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/build/intermediates/res/merged/debug/drawable-nodpi/adjust_face_mouth.png",
+        "source": "/media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/res/drawable-nodpi/adjust_face_mouth.png"
+    },
+    {
+        "merged": "/media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/build/intermediates/res/merged/debug/drawable-nodpi/adjust_face_eye.png",
+        "source": "/media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/res/drawable-nodpi/adjust_face_eye.png"
+    },
+    {
+        "merged": "/media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/build/intermediates/res/merged/debug/drawable-nodpi/adjust_face_chin.png",
+        "source": "/media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/res/drawable-nodpi/adjust_face_chin.png"
+    },
+    {
+        "merged": "/media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/build/intermediates/res/merged/debug/drawable-nodpi/mask1.png",
+        "source": "/media/shahbaz/data1/Mohit/Client_Projects/test_apps/VideoEditing/AvideoEditor/src/main/res/drawable-nodpi/mask1.png"
+    }
+]
