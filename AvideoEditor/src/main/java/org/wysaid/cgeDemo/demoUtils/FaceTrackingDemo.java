@@ -16,12 +16,6 @@ import org.wysaid.view.TrackingCameraGLSurfaceView;
 import java.nio.ByteBuffer;
 import java.nio.ByteOrder;
 
-/**
- * @Author: wangyang
- * @Mail: admin@wysaid.org
- * @Date: 2017/10/29
- * @Description:
- */
 
 public class FaceTrackingDemo implements TrackingCameraGLSurfaceView.TrackingProc {
 

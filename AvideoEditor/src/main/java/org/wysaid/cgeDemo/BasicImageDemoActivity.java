@@ -20,13 +20,6 @@ import org.wysaid.view.ImageGLSurfaceView;
 
 import java.io.InputStream;
 
-/**
- * @Author: wangyang
- * @Mail: admin@wysaid.org
- * @Date: 2017/7/7
- * @Description:
- */
-
 // For general photo editing scene.
 
 public class BasicImageDemoActivity extends AppCompatActivity {
